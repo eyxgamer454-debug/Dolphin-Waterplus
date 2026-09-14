@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Title of the app -->
-    <string name="app_name">Dolphin |MMJR2|</string>
+    <string name="app_name">Dolphin Waterplus</string>
     <string name="host">app</string>
     <string name="scheme">dolphinemu</string>
 
@@ -168,7 +168,7 @@
     <string name="analytics_new_id">Generate a New Statistics Identity</string>
     <string name="analytics_new_id_confirmation">Are you sure you want to generate a new statistics identity?</string>
     <string name="gametdb_thanks">Special thanks to Weihuoya + Dolphin Team for getting this emulator to where it is today.</string>
-    <string name="dev_thanks">Dolphin |MMJR2| made by bankaimaster999 and sspacelynx. Updated and Ducktaped together by Lumince</string>
+    <string name="dev_thanks">Dolphin Waterplus made by bankaimaster999 and sspacelynx. Updated and Ducktaped together by Lumince</string>
 
     <!-- Interface Preference Fragment -->
     <string name="interface_submenu">Interface</string>
@@ -180,7 +180,7 @@
     <string name="download_game_covers">Download Game Covers from GameTDB.com</string>
     <string name="application_theme">Theme</string>
     <string name="updater_check_startup">Check for updates at startup</string>
-    <string name="updater_check_startup_description">If allowed, Dolphin |MMJR2| will check for updates when opened. A pop-up will appear when a new version is available. An internet connection is required.</string>
+    <string name="updater_check_startup_description">If allowed, Dolphin Waterplus will check for updates when opened. A pop-up will appear when a new version is available. An internet connection is required.</string>
 
     <!-- Online Update Region Select Fragment -->
     <string name="region_select_title">Please select a region</string>
@@ -616,7 +616,7 @@ It can efficiently compress both junk data and encrypted Wii data.
 
     <!-- Update available dialog -->
     <string name="updates_alert">Update available</string>
-    <string name="updater_alert_body">A new version of Dolphin |MMJR2| is available, do you want to update?</string>
+    <string name="updater_alert_body">A new version of Dolphin Waterplus is available, do you want to update?</string>
     <string name="not_now">Not now</string>
     <string name="skip_version">Skip this version</string>
 
